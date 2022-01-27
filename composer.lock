@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d0b94d877824a29706a55ed0ab62c7e8",
+    "content-hash": "c84c8ded063ba284322747fd478c3bc6",
     "packages": [
         {
             "name": "academe/authorizenet-objects",
@@ -181,16 +181,16 @@
         },
         {
             "name": "adodb/adodb-php",
-            "version": "v5.20.14",
+            "version": "v5.20.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ADOdb/ADOdb.git",
-                "reference": "a32113c6b3e4e2cb8ae6b49752527d5668a9d7a6"
+                "reference": "6c38e6c614802acd3151444a71191912edcec965"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/a32113c6b3e4e2cb8ae6b49752527d5668a9d7a6",
-                "reference": "a32113c6b3e4e2cb8ae6b49752527d5668a9d7a6",
+                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/6c38e6c614802acd3151444a71191912edcec965",
+                "reference": "6c38e6c614802acd3151444a71191912edcec965",
                 "shasum": ""
             },
             "require": {
@@ -210,8 +210,8 @@
             "authors": [
                 {
                     "name": "John Lim",
-                    "role": "Author",
-                    "email": "jlim@natsoft.com"
+                    "email": "jlim@natsoft.com",
+                    "role": "Author"
                 },
                 {
                     "name": "Damien Regad",
@@ -231,7 +231,11 @@
                 "library",
                 "php"
             ],
-            "time": "2019-01-05T23:16:44+00:00"
+            "support": {
+                "issues": "https://github.com/ADOdb/ADOdb/issues",
+                "source": "https://github.com/ADOdb/ADOdb"
+            },
+            "time": "2022-01-22T22:38:02+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -7200,5 +7204,6 @@
     "platform-dev": [],
     "platform-overrides": {
         "php": "7.2"
-    }
+    },
+    "plugin-api-version": "2.2.0"
 }
