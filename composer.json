@@ -40,7 +40,7 @@
         "symfony/event-dispatcher" : "3.4.30",
         "symfony/http-foundation" : "3.4.30",
         "symfony/yaml" : "3.4.30",
-        "twig/twig" : "2.11.3",
+        "twig/twig" : "2.15.3",
         "vlucas/phpdotenv" : "3.4.0",
         "waryway/php-traits-library": "1.0.4",
         "yubico/u2flib-server" : "1.0.2",
